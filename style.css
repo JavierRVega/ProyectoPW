@@ -1,0 +1,32 @@
+div#princip{
+	
+	background-color: orange;
+	width: auto; 
+	height: 1080px;
+	margin: -10px;
+}
+
+div#encabezado{
+	background-color: white;
+	width: auto;
+	height: 200px;
+	margin: -15px;
+}
+
+div#logo{
+	background-color: green;
+	width: 150px;
+	height: 150px;
+	margin: 0px 0px 0px 150px;  
+}
+
+div#menu{
+	background-color: pink;
+	width: 110px;
+	height: 50px;
+	margin: -100px 0px 0px 450px;
+}
+	background-image: url("http://gruposudesa.com.mx/blog/wp-content/uploads/2021/09/5-platillos-mexicanos-para-el-mes-patrio.jpg");
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position: center center;
