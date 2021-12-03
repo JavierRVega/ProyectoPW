@@ -15,17 +15,52 @@ div#encabezado{
 
 div#logo{
 	background-color: green;
-	width: 150px;
-	height: 150px;
-	margin: 0px 0px 0px 150px;  
+	width: 224px;
+	height: 135px;
+	margin: 10px 0px 0px 120px;  
 }
 
-div#menu{
+div#Menu{
 	background-color: pink;
-	width: 110px;
-	height: 50px;
+	width: 70px;
+	height: 30px;
 	margin: -100px 0px 0px 450px;
+	padding: 15px 20px 15px 20px;
 }
+
+div#Galeria{
+	background-color: pink;
+	width: 70px;
+	height: 30px;
+	margin: -60px 0px 0px 650px;
+	padding: 15px 20px 15px 20px;
+}
+
+div#Promociones{
+	background-color: pink;
+	width: 140px;
+	height: 30px;
+	margin: -60px 0px 0px 850px;
+	padding: 15px 20px 15px 20px;
+}
+
+div#Contacto{
+	background-color: pink;
+	width: 90px;
+	height: 30px;
+	margin: -60px 0px 0px 1120px;
+	padding: 15px 20px 15px 20px;
+}
+
+div#linea{
+	background-color: blue;
+	width: auto;
+	height: 20px;
+	margin: -20px 50px 0px 400px;
+}
+
+
+
 	background-image: url("http://gruposudesa.com.mx/blog/wp-content/uploads/2021/09/5-platillos-mexicanos-para-el-mes-patrio.jpg");
 	background-size: cover;
 	background-repeat:no-repeat;
