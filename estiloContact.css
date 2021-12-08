@@ -1,5 +1,4 @@
 div#princip{
-	
 	background-color: white;
 	width: auto; 
 	height: 1030px;
@@ -65,25 +64,26 @@ div#linea{
 }
 
 div#cuerpo{
-	background-color: blue;
+	background-color: #ffffff;
 	width: auto;
 	height: 700px;
 }
 
 div#fondo{
-	background-color: blue;
+	background-color: #2f3c49;
 	width: auto;
 	height: 700px;
 }
 
 div#nombre{
 	width: 600px;
-	height: 300px;	
-	margin-top: -5px;
-	margin-left: -330px;
+	height: 500px;	
+	margin-top: -60px;
+	margin-left: -300px;
 	left: 50%;
 	top: 50%;
 	position: absolute;
+
 }
 
 div#piepag{
@@ -127,3 +127,6 @@ div#info3{
 	padding: 15px;
 }
 
+
+
+	
